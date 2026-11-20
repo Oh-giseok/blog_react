@@ -109,7 +109,7 @@ function App() {
         />
 
         <button onClick={insertBtn}>
-          글 추가d
+          글 추가
         </button>
 
         {modal === true && (
